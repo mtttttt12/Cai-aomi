@@ -224,6 +224,7 @@ document.addEventListener('keydown', function(e) {
   }
 });
 
+<<<<<<< HEAD
 // ===== 鼠标动效：柔和光晕跟随 + 粒子轨迹 =====
 
 (function() {
@@ -301,6 +302,14 @@ document.addEventListener('keydown', function(e) {
     cursorGlow.style.opacity = '1';
   });
 })();
+=======
+// ===== 附加功能：鼠标跟随装饰效果（可选） =====
+
+document.addEventListener('mousemove', function(e) {
+  // 可以在这里添加鼠标跟随的装饰效果
+  // 例如：微妙的粒子效果或光标轨迹
+});
+>>>>>>> 4d48532be9f18cf100e9ca9607560447901f508d
 
 // ===== 键盘导航支持 =====
 

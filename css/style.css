@@ -660,6 +660,7 @@ section {
   transform: rotate(-10deg);
 }
 
+<<<<<<< HEAD
 /* ===== 鼠标动效 ===== */
 .cursor-glow {
   position: fixed;
@@ -696,6 +697,8 @@ section {
   }
 }
 
+=======
+>>>>>>> 4d48532be9f18cf100e9ca9607560447901f508d
 /* ===== 响应式设计 ===== */
 @media (max-width: 768px) {
   .nav-container {
